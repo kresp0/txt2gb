@@ -60,7 +60,7 @@ Options:
 ![ACM-VGA](/samples/ACM-VGA-s32-l0.png)
 
 ### CompaqThin
-![CompaqThin](/samples/CompaqThin-s32-l1.png)
+![CompaqThin](/samples/CompaqThin-s32-l11.png)
 ![CompaqThin](/samples/CompaqThin-s32-l0.png)
 
 ### GBStudio-Stars
