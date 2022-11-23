@@ -23,3 +23,16 @@ Options:
     
  **-h px**           Maximum height for cutting the images. A multiple of 8 between 8 and 2040 (default)
 
+## Sample text
+
+### ACM-VGA
+![ACM-VGA](/samples/ACM-VGA-s8-l0.png)
+![ACM-VGA](/samples/ACM-VGA-s8-l1.png)
+
+### CompaqThin
+![CompaqThin](/samples/CompaqThin-s8-l0.png)
+![CompaqThin](/samples/CompaqThin-s8-l1.png)
+
+### GBStudio-Stars
+![GBStudio-Stars](/samples/GBStudio-Stars-s8-l0.png)
+![GBStudio-Stars](/samples/GBStudio-Stars-s8-l1.png)
