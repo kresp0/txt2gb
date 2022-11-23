@@ -56,14 +56,11 @@ Options:
 ## Sample text 32px
 
 ### ACM-VGA
-![ACM-VGA](/samples/ACM-VGA-s32-l1.png)
 ![ACM-VGA](/samples/ACM-VGA-s32-l0.png)
 
 ### CompaqThin
-![CompaqThin](/samples/CompaqThin-s32-l1.png)
 ![CompaqThin](/samples/CompaqThin-s32-l0.png)
 
 ### GBStudio-Stars
-![GBStudio-Stars](/samples/GBStudio-Stars-s32-l1.png)
 ![GBStudio-Stars](/samples/GBStudio-Stars-s32-l0.png)
 
