@@ -11,7 +11,7 @@ A script to generate background images with text for GB Studio
 
 ## Usage
 
-`Usage: ./txt2gb.sh [options ...] input.txt
+Usage: ./txt2gb.sh [options ...] input.txt
 
 Options: 
 
@@ -22,4 +22,4 @@ Options:
     -l lines        Line spacing: 0 or 1 (default)
     
     -h px           Maximum height for cutting the images. A multiple of 8 between 8 and 2040 (default)
-`
+
