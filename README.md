@@ -23,7 +23,7 @@ Options:
     
  **-h px**           Maximum height for cutting the images. A multiple of 8 between 8 and 2040 (default)
 
-## Sample text
+## Sample text 8px
 
 ### ACM-VGA
 ![ACM-VGA](/samples/ACM-VGA-s8-l1.png)
@@ -36,3 +36,34 @@ Options:
 ### GBStudio-Stars
 ![GBStudio-Stars](/samples/GBStudio-Stars-s8-l1.png)
 ![GBStudio-Stars](/samples/GBStudio-Stars-s8-l0.png)
+
+
+## Sample text 16px
+
+### ACM-VGA
+![ACM-VGA](/samples/ACM-VGA-s16-l1.png)
+![ACM-VGA](/samples/ACM-VGA-s16-l0.png)
+
+### CompaqThin
+![CompaqThin](/samples/CompaqThin-s16-l1.png)
+![CompaqThin](/samples/CompaqThin-s16-l0.png)
+
+### GBStudio-Stars
+![GBStudio-Stars](/samples/GBStudio-Stars-s16-l1.png)
+![GBStudio-Stars](/samples/GBStudio-Stars-s16-l0.png)
+
+
+## Sample text 32px
+
+### ACM-VGA
+![ACM-VGA](/samples/ACM-VGA-s32-l1.png)
+![ACM-VGA](/samples/ACM-VGA-s32-l0.png)
+
+### CompaqThin
+![CompaqThin](/samples/CompaqThin-s32-l1.png)
+![CompaqThin](/samples/CompaqThin-s32-l0.png)
+
+### GBStudio-Stars
+![GBStudio-Stars](/samples/GBStudio-Stars-s32-l1.png)
+![GBStudio-Stars](/samples/GBStudio-Stars-s32-l0.png)
+
