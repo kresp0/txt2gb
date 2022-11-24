@@ -24,7 +24,7 @@ Options:
  **-h px**           Maximum height for cutting the images. A multiple of 8 between 8 and 2040 (default)
 
 ## Fonts for GB Studio
-I've also created the [ACM-VGA and CompaqThin fonts for GB Studio](https://github.com/kresp0/compaqthin-and-acm-vga-fonts) so you can use it for the dialogs and elsewhere.
+The [ACM-VGA and CompaqThin fonts for GB Studio](https://github.com/kresp0/compaqthin-and-acm-vga-fonts) are also available, so you can use it for the dialogs and elsewhere.
 
 ## Sample text 8px
 
