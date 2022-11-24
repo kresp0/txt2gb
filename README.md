@@ -6,8 +6,8 @@ A script to generate background images with text for GB Studio
 * 3 different font sizes: 8, 16 and 32 px
 * Optional line spacing
 * Customizable maximum height for the images
-* Automatically splits lines too long
-* Automatically splits images too long
+* Automatically splits lines that are too long
+* Automatically splits images that are too long
 
 ## Usage
 
