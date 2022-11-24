@@ -5,7 +5,7 @@ A script to generate background images with text for GB Studio
 * 3 different fonts supported: ACM-VGA, CompaqThin and GBStudio-Stars
 * 3 different font sizes: 8, 16 and 32 px
 * Optional line spacing
-* Customizable maximum heigh for the images
+* Customizable maximum height for the images
 * Automatically splits lines too long
 * Automatically splits images too long
 
