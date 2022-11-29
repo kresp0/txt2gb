@@ -2,7 +2,7 @@
 A script to generate background images with text and text.png fonts for GB Studio
 
 ## Features
-* Support for any compatible TTF font (unicode looking good at 8x8)
+* Support for any compatible font (unicode looking good at 8x8)
 * Accepts text of any lenght
 * Generate a font.png file for its use in GBS
 * 3 different font sizes: 8, 16 and 32 px
