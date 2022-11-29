@@ -4,7 +4,7 @@ A script to generate background images with text and text.png fonts for GB Studi
 ## Features
 * Support for any compatible font (unicode looking good at 8x8)
 * Accepts text of any lenght
-* Generate a font.png file for its use in GBS
+* Generates either images with text or a font.png file for its use in GBS
 * 3 different font sizes: 8, 16 and 32 px
 * Optional line spacing
 * Options to adjust left and top padding, interword spacing and kerning.
