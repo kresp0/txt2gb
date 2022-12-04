@@ -11,7 +11,7 @@ A script to generate background images with text and text.png fonts for GB Studi
 * Customizable maximum height for the images
 * Automatically splits lines that are too long
 * Automatically splits images that are too long
-* Automatically tries to find the correct top padding and kerning
+* Automatically tries to find the correct top padding and kerning when creating a font.png
 
 ## Usage
 
