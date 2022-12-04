@@ -35,7 +35,7 @@ A script to generate background images with text and text.png fonts for GB Studi
         -a px           Image width. A multiple of 8 between 8 and 2040. Default: 160.
 
     GBS Font generation:
-        -g            Generate a font.png to use in GBStudio from a font. Required: -f font.`
+        -g            Generate a font.png to use in GBStudio from a font. Required: -f font.
 
 
 ## Fonts for GB Studio
